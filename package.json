@@ -1,0 +1,26 @@
+{
+  "name": "clone_dispneyplus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goescaroline/clone_dispneyplus.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goescaroline/clone_dispneyplus/issues"
+  },
+  "homepage": "https://github.com/goescaroline/clone_dispneyplus#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.57.1"
+  }
+}
